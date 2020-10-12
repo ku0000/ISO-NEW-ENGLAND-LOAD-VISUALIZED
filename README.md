@@ -8,5 +8,9 @@
      
      ![cluster made](https://media.geeksforgeeks.org/wp-content/uploads/20190812011831/Screenshot-2019-08-12-at-1.09.42-AM.png)
      
-2. Naive-Bayes
+2. Naive-Bayes :
+
+1[probabilistic](https://miro.medium.com/max/700/1*39U1Ln3tSdFqsfQy6ndxOA.png)
+
+
 3. DBSCAN(Density Based Spatial Clustering with added Noise)
