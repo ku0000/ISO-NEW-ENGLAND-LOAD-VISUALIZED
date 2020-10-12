@@ -10,7 +10,7 @@
      
 2. Naive-Bayes :
 
-1[probabilistic](https://miro.medium.com/max/700/1*39U1Ln3tSdFqsfQy6ndxOA.png)
+         ![probabilistic](https://miro.medium.com/max/700/1*39U1Ln3tSdFqsfQy6ndxOA.png)
 
 
 3. DBSCAN(Density Based Spatial Clustering with added Noise)
